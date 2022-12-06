@@ -1,0 +1,9 @@
+numpy
+opencv-python
+matplotlib
+matlab
+scikit-image
+scipy
+# pickle (part of the standard library)
+
+dlib
