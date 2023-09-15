@@ -1,3 +1,3 @@
 # Source Code
 
-All your code should be present in this directory.
+All code present in this directory. 
